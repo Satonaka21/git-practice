@@ -1,2 +1,4 @@
 msg = input("input your message:")
-print(msg)
+
+if msg == "こんにちは":
+    print ('いい天気ですね') 
